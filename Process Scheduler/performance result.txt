@@ -1,0 +1,124 @@
+/*************************************** Test case 0 **************/
+
+
+RR
+
+Performance Metrics : 
+ Throughput: 3
+ Average Response Time: 1.000000 ms
+ Average Turnaround Time: 12.333333 ms
+
+
+
+FIFO
+
+Performance Metrics :
+ Throughput: 3
+ Average Response Time: 5.000000 ms
+ Average Turnaround Time: 10.333333 ms
+
+
+
+SJF
+
+Performance Metrics :
+ Throughput: 3
+ Average Response Time: 3.666667 ms
+ Average Turnaround Time: 9.000000 ms
+
+
+STCF
+
+Performance Metrics :
+ Throughput: 3
+ Average Response Time: 4.333333 ms
+ Average Turnaround Time: 9.000000 ms
+
+/********************** Testcase # 05 ********************************/
+
+FIFO
+Performance Metrics :
+ Throughput: 6
+ Average Response Time: 12.666667 ms
+ Average Turnaround Time: 19.166666 ms
+
+
+SJF
+Performance Metrics :
+ Throughput: 6
+ Average Response Time: 10.333333 ms
+ Average Turnaround Time: 16.833334 ms
+
+
+STCF
+Performance Metrics :
+ Throughput: 6
+ Average Response Time: 5.333333 ms
+ Average Turnaround Time: 16.833334 ms
+
+
+RR
+Performance Metrics :
+ Throughput: 6
+ Average Response Time: 2.500000 ms
+ Average Turnaround Time: 26.000000 ms
+
+/**********************Input # 10 ********************************/
+
+
+STCF
+Performance Metrics :
+ Throughput: 5
+ Average Response Time: 8.666667 ms
+ Average Turnaround Time: 22.666666 ms
+
+
+FIFO
+Performance Metrics :
+ Throughput: 5
+ Average Response Time: 18.333334 ms
+ Average Turnaround Time: 27.666666 ms
+
+
+RR
+Performance Metrics :
+ Throughput: 3
+ Average Response Time: 2.500000 ms
+ Average Turnaround Time: 36.333332 ms
+
+
+SJF
+Performance Metrics :
+ Throughput: 5
+ Average Response Time: 13.666667 ms
+ Average Turnaround Time: 23.000000 ms
+
+/**********************Testcase # 13 ********************************/
+
+
+RR
+Performance Metrics :
+ Throughput: 2
+ Average Response Time: 3.500000 ms
+ Average Turnaround Time: 49.625000 ms
+
+
+STCF
+Performance Metrics :
+ Throughput: 6
+ Average Response Time: 14.000000 ms
+ Average Turnaround Time: 27.250000 ms
+
+
+SJF
+Performance Metrics :
+ Throughput: 6
+ Average Response Time: 18.500000 ms
+ Average Turnaround Time: 27.375000 ms
+
+
+FIFO
+Performance Metrics :
+ Throughput: 4
+ Average Response Time: 27.625000 ms
+ Average Turnaround Time: 36.500000 ms
